@@ -12,7 +12,7 @@ export default function App() {
         <Dictionary defaultKeyword="sunset" />
       </main>
       <footer className="App-footer text-center">
-        <small>Coded by Khalea Mitchell</small>
+        <small>Coded by <a href="https://www.shecodes.io/graduates/182572-khalea-mitchell" target="_blank" rel="noreferrer">Khalea Mitchell</a> and is open-sourced on <a href="https://github.com/KhaleaM/dictionary-search-engine" target="_blank" rel="noreferrer" >GitHub</a> and hosted on <a href="https://dictionary-search-engine-project.netlify.app" target="_blank" rel="noreferrer" >Netlify</a>.   </small>
       </footer>
     </div>
   );
